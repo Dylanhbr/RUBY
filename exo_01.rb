@@ -1,1 +1,1 @@
-ejfjedo
+puts "bonjour, monde !"
